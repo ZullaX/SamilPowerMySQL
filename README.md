@@ -7,6 +7,11 @@ The project was made for the solar power complex of the Moscow Power Engineering
 Comments and the interface is made in Russian on-demand work.
 
 Dependencies:
-mysql connector, reprint
+
+mysql connector
+
+configparser
+
+reprint - https://github.com/Yinzo/reprint
 
 ![image](https://user-images.githubusercontent.com/50865728/160682698-0ac6c456-02a3-4595-9d3f-dec8f37bcefe.png)
