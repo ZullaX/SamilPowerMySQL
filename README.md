@@ -3,7 +3,8 @@ Receiving data from the SamilPower SolarRiver 3400 tl-d inverter and saving us t
 
 Original project mhvis/solar was redesigned to work with mysql and output the information to the console.
 
-The project was made for the solar power complex of the Moscow Power Engineering Institute
+The project was made for the solar power complex of the Moscow Power Engineering Institute.
+Comments and the interface is made in Russian on-demand work.
 
 Dependencies:
 mysql connector, reprint
